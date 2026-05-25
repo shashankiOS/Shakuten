@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "love-in-han-river.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
