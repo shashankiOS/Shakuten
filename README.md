@@ -15,6 +15,26 @@ The application utilizes a modular presentation structure based on an adapted MV
 
 ---
 
+## User Interface Layout Matrix
+
+All user interface layout tracking outputs correspond to local raw simulation frame captures stored within the core repository folder.
+
+<p align="center">
+  <img src="Screenshots/Simulator Screenshot - iPhone 17 Pro - 2026-05-25 at 12.59.28.png" width="24%" alt="App Initialization" />
+  <img src="Screenshots/Simulator Screenshot - iPhone 17 Pro - 2026-05-25 at 12.59.45.png" width="24%" alt="Main Content Dashboard" />
+  <img src="Screenshots/Simulator Screenshot - iPhone 17 Pro - 2026-05-25 at 12.59.48.png" width="24%" alt="Category Filtering Sheet" />
+  <img src="Screenshots/Simulator Screenshot - iPhone 17 Pro - 2026-05-25 at 12.59.52.png" width="24%" alt="Grid Results Layout" />
+  <img src="Screenshots/Simulator Screenshot - iPhone 17 Pro - 2026-05-25 at 12.59.55.png" width="24%" alt="Metadata Details Board" />
+  <img src="Screenshots/Simulator Screenshot - iPhone 17 Pro - 2026-05-25 at 13.00.03.png" width="24%" alt="Episodes Tracking Segment" />
+  <img src="Screenshots/Simulator Screenshot - iPhone 17 Pro - 2026-05-25 at 13.00.09.png" width="24%" alt="Offline Cache Storage List" />
+  <img src="Screenshots/Simulator Screenshot - iPhone 17 Pro - 2026-05-25 at 13.00.13.png" width="24%" alt="User Profile Configuration" />
+  <img src="Screenshots/Simulator Screenshot - iPhone 17 Pro - 2026-05-25 at 13.13.07.png" width="24%" alt="Landscape Video Container Frame" />
+  <img src="Screenshots/Simulator Screenshot - iPhone 17 Pro - 2026-05-25 at 13.13.20.png" width="24%" alt="Active Bitrate Quality Action Sheet" />
+  <img src="Screenshots/Simulator Screenshot - iPhone 17 Pro - 2026-05-25 at 13.15.06.png" width="24%" alt="Active Subtitles Option Sheet" />
+  <img src="Screenshots/Simulator Screenshot - iPhone 17 Pro - 2026-05-25 at 13.15.09.png" width="24%" alt="Active Subtitles Overlay Mode" />
+</p>
+
+---
 ## Codebase Architecture and Structural Mapping
 
 The structural folder mapping matches your repository index:
