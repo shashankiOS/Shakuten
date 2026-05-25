@@ -15,6 +15,26 @@ The application utilizes a modular presentation structure based on an adapted MV
 
 ---
 
+## User Interface Layout Matrix
+
+All user interface layout tracking outputs correspond to local raw simulation frame captures stored within the core repository folder.
+<p align="center">
+  <img src="Screenshots/screen_1.png" width="24%" alt="App Initialization" />
+  <img src="Screenshots/screen_2.png" width="24%" alt="Main Content Dashboard" />
+  <img src="Screenshots/screen_4.png" width="24%" alt="Grid Results Layout" />
+</p>
+<p align="center">
+  <img src="Screenshots/screen_5.png" width="24%" alt="Metadata Details Board" />
+  <img src="Screenshots/screen_6.png" width="24%" alt="Episodes Tracking Segment" />
+  <img src="Screenshots/screen_8.png" width="24%" alt="User Profile Configuration" />
+</p>
+<p align="center">
+  <img src="Screenshots/screen_10.png" width="24%" alt="Active Bitrate Quality Action Sheet" />
+  <img src="Screenshots/screen_11.png" width="24%" alt="Active Subtitles Option Sheet" />
+  <img src="Screenshots/screen_12.png" width="24%" alt="Active Subtitles Overlay Mode" />
+</p>
+
+---
 ## Codebase Architecture and Structural Mapping
 
 The structural folder mapping matches your repository index:
