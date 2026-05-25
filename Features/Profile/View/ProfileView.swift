@@ -33,7 +33,7 @@ struct ProfileView: View {
                                 .frame(width: 120)
                                 .padding(.leading, 0)
 
-                            Text("+91 9340044657")
+                            Text("+91 1111111111")
                                 .font(.title2)
                                 .tracking(3)
                                 .foregroundColor(.white)
