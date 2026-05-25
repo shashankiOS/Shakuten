@@ -21,17 +21,14 @@ All user interface layout tracking outputs correspond to local raw simulation fr
 <p align="center">
   <img src="Screenshots/screen_1.png" width="24%" alt="App Initialization" />
   <img src="Screenshots/screen_2.png" width="24%" alt="Main Content Dashboard" />
-  <img src="Screenshots/screen_3.png" width="24%" alt="Category Filtering Sheet" />
   <img src="Screenshots/screen_4.png" width="24%" alt="Grid Results Layout" />
 </p>
 <p align="center">
   <img src="Screenshots/screen_5.png" width="24%" alt="Metadata Details Board" />
   <img src="Screenshots/screen_6.png" width="24%" alt="Episodes Tracking Segment" />
-  <img src="Screenshots/screen_7.png" width="24%" alt="Offline Cache Storage List" />
   <img src="Screenshots/screen_8.png" width="24%" alt="User Profile Configuration" />
 </p>
 <p align="center">
-  <img src="Screenshots/screen_9.png" width="24%" alt="Landscape Video Container Frame" />
   <img src="Screenshots/screen_10.png" width="24%" alt="Active Bitrate Quality Action Sheet" />
   <img src="Screenshots/screen_11.png" width="24%" alt="Active Subtitles Option Sheet" />
   <img src="Screenshots/screen_12.png" width="24%" alt="Active Subtitles Overlay Mode" />
