@@ -9,10 +9,10 @@ import SwiftUI
 
 struct ProfileView: View {
     
-    @State private var name: String = "Shashank"
-    @State private var age: String = "25"
-    @State private var isLoggedIn: Bool = true
-    @State private var showEditSheet: Bool = false
+    @State private var name = "Shashank"
+    @State private var age = "25"
+    @State private var isLoggedIn = true
+    @State private var showEditSheet = false
     
     var body: some View {
             ZStack {
@@ -33,7 +33,7 @@ struct ProfileView: View {
                                 .frame(width: 120)
                                 .padding(.leading, 0)
 
-                            Text("+91 9340044657")
+                            Text("+91 1111111111")
                                 .font(.title2)
                                 .tracking(3)
                                 .foregroundColor(.white)

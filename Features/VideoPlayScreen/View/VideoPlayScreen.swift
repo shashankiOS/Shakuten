@@ -11,7 +11,7 @@ struct VidePlayScreen: View {
     @State private var show: Show
     @State private var selectedTab = "About"
     @State private var scrollOffset: CGFloat = 0
-    @State var wacthNowClicked : Bool = false
+    @State private var wacthNowClicked: Bool = false
     private let stickyThreshold: CGFloat = -250
 
     var isSticky: Bool {
@@ -25,7 +25,7 @@ struct VidePlayScreen: View {
         ZStack {
             ScrollView {
                 VStack(alignment: .leading, spacing: 12) {
-                    ShowPreviewView(show:show, wacthNowClicked: $wacthNowClicked)
+                    ShowPreviewView(show: show, wacthNowClicked: $wacthNowClicked)
                     MoreOptions(selectedTab: $selectedTab)
 
                     //TO :DO Make it fix
@@ -45,19 +45,19 @@ struct VidePlayScreen: View {
                     }
                 }
             }
-        }.toolbar(.hidden, for: .navigationBar)
-            .navigationTitle(show.title)
-            .background(backgroundGradient)
-
-            .navigationDestination(isPresented: $wacthNowClicked) {
-                        VideoPlayView()
-                    }
+        }
+        .toolbar(.hidden, for: .navigationBar)
+        .navigationTitle(show.title)
+        .background(backgroundGradient)
+        .navigationDestination(isPresented: $wacthNowClicked) {
+            VideoPlayView()
+        }
         
     }
 
 }
 #Preview {
-    VidePlayScreen(show:                  Show(
+    VidePlayScreen(show: Show(
         id: "love-in-han-river",
         title: "Love in Han River",
         genre: "Romance",
@@ -70,4 +70,3 @@ struct VidePlayScreen: View {
         isNewEpisode: true
     ))
 }
-
