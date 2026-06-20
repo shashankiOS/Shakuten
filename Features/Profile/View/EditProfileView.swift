@@ -12,6 +12,11 @@ struct EditProfileView: View {
     @Binding var age: String
     @Environment(\.dismiss) var dismiss
     
+    init(name: Binding<String>, age: Binding<String>) {
+        self._name = name
+        self._age = age
+    }
+    
     var body: some View {
         ZStack{
             backgroundGradient.ignoresSafeArea()
@@ -42,3 +47,4 @@ struct EditProfileView: View {
         }
     }
 }
+

@@ -9,10 +9,10 @@ import SwiftUI
 
 struct ProfileView: View {
     
-    @State private var name: String = "Shashank"
-    @State private var age: String = "25"
-    @State private var isLoggedIn: Bool = true
-    @State private var showEditSheet: Bool = false
+    @State private var name = "Shashank"
+    @State private var age = "25"
+    @State private var isLoggedIn = true
+    @State private var showEditSheet = false
     
     var body: some View {
             ZStack {
