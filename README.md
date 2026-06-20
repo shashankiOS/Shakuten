@@ -23,9 +23,7 @@ All user interface layout tracking outputs correspond to local raw simulation fr
   <img src="Screenshots/screen_2.png" width="24%" alt="Main Content Dashboard" />
   <img src="Screenshots/screen_4.png" width="24%" alt="Grid Results Layout" />
 </p>
-</p>
 <p align="center">
-  <img src="Screenshots/screen_9.png" width="24%" alt="Landscape Video Container Frame" />
   <img src="Screenshots/screen_10.png" width="24%" alt="Active Bitrate Quality Action Sheet" />
   <img src="Screenshots/screen_11.png" width="24%" alt="Active Subtitles Option Sheet" />
   <img src="Screenshots/screen_12.png" width="24%" alt="Active Subtitles Overlay Mode" />
